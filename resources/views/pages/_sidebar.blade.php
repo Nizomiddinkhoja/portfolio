@@ -88,7 +88,7 @@
         }
     </style>
 
-    <div class="widget follow-us">
+    <div class=" follow-us">
         <h3 class="widget-title">
             Автор в соц сетях
         </h3>

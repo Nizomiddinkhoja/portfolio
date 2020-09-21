@@ -2941,6 +2941,7 @@ input[type="button"].btn-block {
  * Copyright 2015, booncon oy - http://booncon.com
  *
  *
+ *
  * Released under the MIT license - http://opensource.org/licenses/MIT
  */
 /* kenBurns animations, very basic */
@@ -4747,7 +4748,7 @@ ul.bullet {
 
 /* FOOTER */
 footer.tada-container {
-	margin:150px auto;
+	margin:50px auto;
 }
 footer .widget {
 	margin-bottom:0;

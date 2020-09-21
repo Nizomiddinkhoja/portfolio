@@ -127,13 +127,13 @@ class Post extends Model
 
     public function setDraft()
     {
-        $this->status = Post::IS_DRAFT;
+        $this->status =0;
         $this->save();
     }
 
     public function setPublic()
     {
-        $this->status = Post::IS_PUBLIC;
+        $this->status = 1;
         $this->save();
     }
 
